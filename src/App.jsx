@@ -155,7 +155,7 @@ export default function DateInvite() {
                 transform: `scale(${shrinkFactor})`
               }}
             >
-              No&lt;3
+              No</3>
             </button>
           </div>
         </div>
